@@ -7,8 +7,6 @@ Welcome to the Stock Price Detection repository! Here, you'll find code and proj
 - [Introduction](#introduction)
 - [Folder Structure](#folder-structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -34,12 +32,20 @@ To use the code and notebooks in this repository, follow these steps:
 ```bash
 git clone https://github.com/Adityas266/Stock_Price_Detection.git
 ```
-![image](https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/9e3d6243-fbde-4cf2-8102-10afea664f9e)
-![image](https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/d823871d-a220-4b1b-a1cd-ad10b968f463)
-![image](https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/80a9667c-1ace-4127-98f8-5b5983f35135)
-![image](https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/3b5fcbf2-565d-42a5-a88b-c9f8fc08573c)
-![image](https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/8eb81d39-6fbe-4f83-a131-e3c55f8f4a1c)
-![image](https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/c070d2a3-3cdb-404b-9f12-a5b3d4edcb92)
+<div align="left">
+  <div>
+<img src="https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/9e3d6243-fbde-4cf2-8102-10afea664f9e" width="47%">
+<img src="https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/d823871d-a220-4b1b-a1cd-ad10b968f463"  width="49%">
+  </div>
+  <div>
+<img src="https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/80a9667c-1ace-4127-98f8-5b5983f35135"  width="47%">
+<img src="https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/3b5fcbf2-565d-42a5-a88b-c9f8fc08573c"  width="49%">
+  </div>
+  <div>
+<img src="https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/8eb81d39-6fbe-4f83-a131-e3c55f8f4a1c"  width="47%">
+<img src="https://github.com/Adityas266/Stock_Price_Detection/assets/108875499/c070d2a3-3cdb-404b-9f12-a5b3d4edcb92"  width="49%">
+  </div>
+</div>
 
 
 
